@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T05:03:17.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.127 Safari/537.36" etag="vKaPTyl2aLKz2Y1qWtEV" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T05:03:56.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.127 Safari/537.36" etag="Jt4LljgMdxB2tTEtJmLV" version="20.4.1" type="github">
   <diagram id="uhMSqS9C0jqgO5NpFfLt" name="Page-1">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="fWD_8ChIjUKBFCSAX9jQ-4" value="Private Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=right;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="760" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-5" value="Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=right;" vertex="1" parent="1">
           <mxGeometry x="20" y="387" width="770" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-6" value="a" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-6" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=right;" vertex="1" parent="1">
           <mxGeometry x="20" y="697" width="780" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fWD_8ChIjUKBFCSAX9jQ-8" value="Mobile Apps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
