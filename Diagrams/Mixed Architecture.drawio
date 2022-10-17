@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T05:03:56.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.127 Safari/537.36" etag="Jt4LljgMdxB2tTEtJmLV" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T05:30:40.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.127 Safari/537.36" etag="H0Ksb-RjaYpCRUSU4fGh" version="20.4.1" type="github">
   <diagram id="uhMSqS9C0jqgO5NpFfLt" name="Page-1">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="fWD_8ChIjUKBFCSAX9jQ-10" value="API Gateway (Authorization)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="617" width="760" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-11" value="Courier Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-11" value="Courier Service Serviceless API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-12" value="Customer Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="fWD_8ChIjUKBFCSAX9jQ-12" value="Customer Service Serviceless API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fWD_8ChIjUKBFCSAX9jQ-13" value="Order Placement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
